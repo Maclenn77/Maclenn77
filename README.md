@@ -9,7 +9,7 @@ I'm Juan Paulo, but you can call me just *J.P.*. I'm currently learning Full-Sta
 
 ### My Background
 
-I studied Linguistics at National School of Anthropology and History and Sociology at National Autonomous University of Mexico. It could sound that I did a career shift into Web Development, but I didn't. My pregraduate research work was about the language policies in the education system of Mexico. Now I'm learning Web Development because I considerer it as a powerful tool to deliver better policies in the education system.
+I studied Linguistics at National School of Anthropology and History, and Sociology at National Autonomous University of Mexico. It could sound that I did a career shift into Web Development, but I didn't. My pregraduate research work was about the language policies in the education system of Mexico. Now I'm learning Web Development because I considerer it as a powerful tool to deliver better policies in the education system.
 
 ### My Projects
 
