@@ -5,7 +5,7 @@
 
 I'm Juan Paulo, but you can call me just *J.P.*. I'm currently learning Full-Stack Web Development at Microverse ([highly recommended](https://www.microverse.org/?grsf=6h9fw6)). I'm also bootstrapping an EdTech Startup ([check here](https://daiuk.com.mx)). 
 
-**My goal is to develop innovative learning materials for high school students and shorten the achievement gap in Latin America.**
+:dart: **My goal is to develop innovative learning materials for high school students and shorten the achievement gap in Latin America.**
 
 ### My Background
 
@@ -13,8 +13,8 @@ I studied Linguistics at National School of Anthropology and History and Sociolo
 
 ### My Projects
 
-**Right now, my main project is the company that I founded: Daiuk.*
-*
+**Right now, my main project is the company that I founded: Daiuk.**
+
 I showcase my Full-Stack Web Development projects [here](http://juanpaulo.xyz).
 
 I'm also a sporadical contributor of cultural magazines as [Nexos](https://cultura.nexos.com.mx/author/juan-paulo-perez-tejada/); and a regular contributor of tech-related blogs such as [Developerz.software](http://developez.software) and [Latinamerica.tech](http://latinamerica.tech).
@@ -31,23 +31,20 @@ For a long time, my favorite sport was chess. But as I spend a lot of time in a 
 
 ### My favorite things
 
-<code> 1 const person = new class Friend(smart, creative, funny);<br> :person:
-
-2 // I don't match with hateful people that doesn't respect diversity<br> :rage:
-
+<code> 
+1 const person = new class Friend(smart, creative, funny);<br>
+2 // I don't match with hateful people that doesn't respect diversity<br> 
 3                                                     <br>
-
-4 const pet = new class Cat(cute, furry, needy);<br> :heart_eyes_cat:
-
-5 // However, I also love dogs<br> :dog:
-
+4 const pet = new class Cat(cute, furry, needy);<br>
+5 // However, I also love dogs<br>
 6                                                    <br>
+7 const brew = new class Coffee(bitter, strong, dark)<br>
+8 // But sometimes I prefer a cup of tea <br></code>
 
-7 const brew = new class Coffee(bitter, strong, dark)<br> :coffee:
+### Fun Fact
 
-8 // But sometimes I prefer a cup of tea <br> :tea:
+For a while, I was payed for doing memes for in a local newspaper. :laugh:
 
-</code>
 ### Contact Info
 
 You can reach me through [Twitter](https://twitter.com/srjuanpapas) or [LinkedIn](ttps://www.linkedin.com/in/juanpaulopereztejada/es-es?originalSubdomain=mx) or here, in GitHub (I guess that you don't need a link for that :smiley:)
