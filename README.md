@@ -42,7 +42,7 @@ For a long time, my favorite sport was chess. But as I spend a lot of time in a 
 
 ### Fun Fact
 
-For a while, I was payed for doing memes for in a local newspaper. :sweat_smile:
+For a while, I was payed for doing memes in a local newspaper. :sweat_smile:
 
 ### Contact Info
 
