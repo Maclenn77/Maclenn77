@@ -31,24 +31,24 @@ For a long time, my favorite sport was chess. But as I spend a lot of time in a 
 
 ### My favorite things
 
-<code>1 const person = new class Friend(smart, creative, funny);</code><br>
-<code>2 // I don't match with hateful people that doesn't respect diversity</code><br> 
-3                                                     <br>
-4 const pet = new class Cat(cute, furry, needy);<br>
-5 // However, I also love dogs<br>
-6                                                    <br>
-7 const brew = new class Coffee(bitter, strong, dark)<br>
-8 // But sometimes I prefer a cup of tea <br>
+<code>1 const person = new class Friend(smart, creative, funny);            </code>:smiling_face_with_three_hearts:<br> 
+<code>2 // I don't match with hateful people that doesn't respect diversity</code>:angry:<br> 
+<code>3                                                                     </code><br>
+<code>4 const pet = new class Cat(cute, furry, needy);                      </code>:heart_eyes_cat:<br> 
+<code>5 // However, I also love dogs                                         </code>:dog:<br>
+<code>6                                                    </code><br>
+<code>7 const brew = new class Coffee(bitter, strong, dark)</code>:coffee:<br>
+<code>8 // But sometimes I prefer a cup of tea </code>:tea:<br>
 
 ### Fun Fact
 
-For a while, I was payed for doing memes for in a local newspaper. :laugh:
+For a while, I was payed for doing memes for in a local newspaper. :sweat_smile:
 
 ### Contact Info
 
 You can reach me through [Twitter](https://twitter.com/srjuanpapas) or [LinkedIn](ttps://www.linkedin.com/in/juanpaulopereztejada/es-es?originalSubdomain=mx) or here, in GitHub (I guess that you don't need a link for that :smiley:)
 
-I would like to share my email, but I am afraid of evil robots :evil: :robot:
+I would like to share my email, but I am afraid of evil robots :imp: :robot:
 
 <!--
 **Maclenn77/Maclenn77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
