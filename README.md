@@ -31,14 +31,14 @@ For a long time, my favorite sport was chess. But as I spend a lot of time in a 
 
 ### My favorite things
 
-<code>1 const person = new class Friend(smart, creative, funny);<br>
-2 // I don't match with hateful people that doesn't respect diversity<br> 
+<code>1 const person = new class Friend(smart, creative, funny);</code><br>
+<code>2 // I don't match with hateful people that doesn't respect diversity</code><br> 
 3                                                     <br>
 4 const pet = new class Cat(cute, furry, needy);<br>
 5 // However, I also love dogs<br>
 6                                                    <br>
 7 const brew = new class Coffee(bitter, strong, dark)<br>
-8 // But sometimes I prefer a cup of tea <br></code>
+8 // But sometimes I prefer a cup of tea <br>
 
 ### Fun Fact
 
