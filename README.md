@@ -31,13 +31,21 @@ For a long time, my favorite sport was chess. But as I spend a lot of time in a 
 ### My favorite things
 
 `1 const person = new class Friend(smart, creative, funny);` :person:
+
 `2 // I don't match with hateful people that doesn't respect diversity` :rage:
+
 `3                                                     `
+
 `4 const pet = new class Cat(cute, furry, needy);` :heart_eyes_cat:
+
 `5 // However, I also love dogs` :dog:
+
 `6                                                    `
+
 `7 const brew = new class Coffee(bitter, strong, dark)` :coffee:
+
 `8 // But sometimes I prefer a cup of tea ` :tea:
+
 
 ### Contact Info
 
