@@ -50,6 +50,8 @@ You can reach me through [Twitter](https://twitter.com/srjuanpapas) or [LinkedIn
 
 I would like to share my email, but I am afraid of evil robots :imp: :robot:
 
+####  ✨ Have fun coding! ✨
+
 <!--
 **Maclenn77/Maclenn77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
