@@ -1,5 +1,5 @@
 
-![banner](./addbanner.png)
+![banner](addbanner.png)
 
 ### Hello, World! :nerd_face:
 
