@@ -1,5 +1,5 @@
 
-<p text-align="center"><img src='./addbanner.png'></p>
+<p style="text-align:center"><img src='./addbanner.png'></p>
 
 ### Hello, World! :nerd_face:
 
