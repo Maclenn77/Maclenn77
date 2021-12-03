@@ -13,10 +13,11 @@ I studied Linguistics at National School of Anthropology and History and Sociolo
 
 ### My Projects
 
-**Right now, my main project is the company that I founded: Daiuk. **
-I showcase my Full-Stack Web Development projects [here]().
+**Right now, my main project is the company that I founded: Daiuk.*
+*
+I showcase my Full-Stack Web Development projects [here](http://juanpaulo.xyz).
 
-I'm also a sporadical contributor of cultural magazines as Nexos, Punto de Partida, Punto en Línea; and a regular contributor of tech-related blogs such as Developerz.software and Latinamerica.tech.
+I'm also a sporadical contributor of cultural magazines as [Nexos](https://cultura.nexos.com.mx/author/juan-paulo-perez-tejada/); and a regular contributor of tech-related blogs such as [Developerz.software](http://developez.software) and [Latinamerica.tech](http://latinamerica.tech).
 
 I have in the draft a novel and a book of short stories. I would like to have one day a long vacation to finish that books.
 
@@ -24,29 +25,29 @@ I have in the draft a novel and a book of short stories. I would like to have on
 
  I love writing, but I have had time to write for pleasure lately. I even won second place in a short stories contest! (if you read in Spanish, I hope you can [enjoy it](http://www.puntodepartida.unam.mx/index.php/1087-no-0203/1918-0203-la-cronica-como-antidoto-las-batallas-en-xoco-juan-paulo-perez-tejada). 
 
-I like to read science fiction, realism, and pop-science books. 
+I like to read science fiction, realism, and pop-science books. 📚
 
-For a long time, my favorite sport was chess. But as I spend a lot of time in a chair, I rarely play chess now. My current hobbies are riding the bicycle and running. However, I am always ready for a chess match!
+For a long time, my favorite sport was chess. But as I spend a lot of time in a chair, I rarely play chess now. My current hobbies are riding the bicycle and running. However, I am always ready for a chess match!  🦾
 
 ### My favorite things
 
-`1 const person = new class Friend(smart, creative, funny);` :person:
+<code> 1 const person = new class Friend(smart, creative, funny);<br> :person:
 
-`2 // I don't match with hateful people that doesn't respect diversity` :rage:
+2 // I don't match with hateful people that doesn't respect diversity<br> :rage:
 
-`3                                                     `
+3                                                     <br>
 
-`4 const pet = new class Cat(cute, furry, needy);` :heart_eyes_cat:
+4 const pet = new class Cat(cute, furry, needy);<br> :heart_eyes_cat:
 
-`5 // However, I also love dogs` :dog:
+5 // However, I also love dogs<br> :dog:
 
-`6                                                    `
+6                                                    <br>
 
-`7 const brew = new class Coffee(bitter, strong, dark)` :coffee:
+7 const brew = new class Coffee(bitter, strong, dark)<br> :coffee:
 
-`8 // But sometimes I prefer a cup of tea ` :tea:
+8 // But sometimes I prefer a cup of tea <br> :tea:
 
-
+</code>
 ### Contact Info
 
 You can reach me through [Twitter]() or [LinkedIn]() or here, in GitHub (I guess that you don't need a link for that :smiley:)
