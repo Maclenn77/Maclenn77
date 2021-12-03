@@ -1,5 +1,5 @@
 
-![banner](addbanner.png)
+<p text-align="center"><img src='./addbanner.png'></p>
 
 ### Hello, World! :nerd_face:
 
