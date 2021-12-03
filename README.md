@@ -23,7 +23,7 @@ I have in the draft a novel and a book of short stories. I would like to have on
 
 ### My hobbies
 
- I love writing, but I have had time to write for pleasure lately. I even won second place in a short stories contest! (if you read in Spanish, I hope you can [enjoy it](http://www.puntodepartida.unam.mx/index.php/1087-no-0203/1918-0203-la-cronica-como-antidoto-las-batallas-en-xoco-juan-paulo-perez-tejada). 
+ I love writing, but I have had no time to write for pleasure lately. I'm not bat, I once won second place in a short stories contest! (if you read in Spanish, I hope you can [enjoy it](http://www.puntodepartida.unam.mx/index.php/1087-no-0203/1918-0203-la-cronica-como-antidoto-las-batallas-en-xoco-juan-paulo-perez-tejada). 
 
 I like to read science fiction, realism, and pop-science books. 📚
 
