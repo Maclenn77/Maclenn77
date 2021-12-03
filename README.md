@@ -31,8 +31,7 @@ For a long time, my favorite sport was chess. But as I spend a lot of time in a 
 
 ### My favorite things
 
-<code> 
-1 const person = new class Friend(smart, creative, funny);<br>
+<code>1 const person = new class Friend(smart, creative, funny);<br>
 2 // I don't match with hateful people that doesn't respect diversity<br> 
 3                                                     <br>
 4 const pet = new class Cat(cute, furry, needy);<br>
