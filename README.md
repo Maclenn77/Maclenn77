@@ -19,7 +19,7 @@ I showcase my Full-Stack Web Development projects [here](http://juanpaulo.xyz).
 
 I'm also a sporadical contributor of cultural magazines as [Nexos](https://cultura.nexos.com.mx/author/juan-paulo-perez-tejada/); and a regular contributor of tech-related blogs such as [Developerz.software](http://developez.software) and [Latinamerica.tech](http://latinamerica.tech).
 
-I have in the draft a novel and a book of short stories. I would like to have one day a long vacation to finish that books.
+I have drafted a novel and a book of short stories. I would like to have one day a long vacation to finish that books.
 
 ### My hobbies
 
