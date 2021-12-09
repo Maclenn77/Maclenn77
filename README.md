@@ -42,13 +42,11 @@ For a long time, my favorite sport was chess. But as I spend a lot of time in a 
 
 ### Fun Fact
 
-For a while, I was payed for doing memes in a local newspaper. :sweat_smile:
+For a while, I was paid for doing memes in a local newspaper. :sweat_smile:
 
 ### Contact Info
 
 You can reach me through [Twitter](https://twitter.com/srjuanpapas) or [LinkedIn](https://www.linkedin.com/in/juanpaulopereztejada/es-es?originalSubdomain=mx) or here, in GitHub (I guess that you don't need a link for that :smiley:)
-
-I would like to share my email, but I am afraid of evil robots :imp: :robot:
 
 ####  ✨ Have fun coding! ✨
 
