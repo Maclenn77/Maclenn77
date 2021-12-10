@@ -23,11 +23,11 @@ I have drafted a novel and a book of short stories. I would like to have one day
 
 ### My hobbies
 
- I love writing, but I have had no time to write for pleasure lately. I'm not bat, I once won second place in a short stories contest! (if you read in Spanish, I hope you can [enjoy it](http://www.puntodepartida.unam.mx/index.php/1087-no-0203/1918-0203-la-cronica-como-antidoto-las-batallas-en-xoco-juan-paulo-perez-tejada)). 
+ I love writing, but I have had no time to write for pleasure lately. I'm not bad, I even won second place in a short stories contest! (if you read in Spanish, I hope you can [enjoy it](http://www.puntodepartida.unam.mx/index.php/1087-no-0203/1918-0203-la-cronica-como-antidoto-las-batallas-en-xoco-juan-paulo-perez-tejada)). 
 
 I like to read science fiction, realism, and pop science books. 📚
 
-For a long time, my favorite sport was chess. But as I spend a lot of time in a chair, I rarely play chess now. My current hobbies are riding the bicycle and running. However, I am always ready for a chess match!  🦾
+For a long time, my favorite sport was chess. But as I spend a lot of time in a chair, I rarely play chess now. My current hobbies are riding the bicycle and running. However, I am always ready for a chess match. [Challenge me!](https://www.chess.com/member/jpaulopapas) ♟️ 🦾
 
 ### My favorite things
 
