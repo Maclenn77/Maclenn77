@@ -1,12 +1,13 @@
 
-<p style="text-align:center"><img src='./addbanner.png'></p>
+<p style="text-align: center;"><img src='./addbanner.png'></p>
+<p align="center">JavaScript | React | Bootstrap | HTML | CSS | VS Code | Git | Wordpress | Ruby | RoR | Capybara | Jest | Webpack </p>
 
 ### Hello, World! :nerd_face:
 
 I'm Juan Paulo, but you can call me just *J.P.*. I'm currently learning Full-Stack Web Development at Microverse ([highly recommended](https://www.microverse.org/?grsf=6h9fw6)). I'm also bootstrapping an EdTech Startup ([check here](https://daiuk.com.mx)). 
 
-:dart: **My goal is to develop innovative learning materials for high school students and shorten the achievement gap in Latin America.**
-
+**<p align="center"> :dart: My goal is to develop innovative learning materials for high school students <br>and shorten the achievement gap in Latin America.</p>**
+ 
 ### My Background
 
 I studied Linguistics at National School of Anthropology and History, and Sociology at National Autonomous University of Mexico. It could sound that I did a career shift into Web Development, but I didn't. My pregraduate research work was about the language policies in the education system of Mexico. Now I'm learning Web Development because I considerer it as a powerful tool to deliver better policies in the education system.
