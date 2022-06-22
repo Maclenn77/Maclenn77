@@ -4,7 +4,7 @@
 
 ### Hello, World! :nerd_face:
 
-I'm Juan Paulo, but you can call me just *J.P.*. I'm currently learning Full-Stack Web Development at Microverse ([highly recommended](https://www.microverse.org/?grsf=6h9fw6)). I'm also bootstrapping an EdTech Startup ([check here](https://daiuk.com.mx)). 
+I'm Juan Paulo, but you can call me just *J.P.*. I'm learned Full-Stack Web Development at Microverse ([highly recommended](https://www.microverse.org/?grsf=6h9fw6)). I'm currently working as a Back-end Developer at Apex Systems. I'm also bootstrapping an EdTech Startup ([check here](https://daiuk.com.mx)). 
 
 **<p align="center"> :dart: My goal is to develop innovative learning materials for high school students <br>and shorten the achievement gap in Latin America.</p>**
  
