@@ -1,5 +1,5 @@
 
-<p style="text-align: center;"><img src='./addbanner.png'></p>
+<p style="text-align: center;"><img src='./addbanner.png' alt='Juan Paulo Pérez Tejada Ladrón de Guevara. Full-Stack Web Developer, Writer and Translator'></p>
 <p align="center">JavaScript | React | Bootstrap | HTML | CSS | VS Code | Git | Wordpress | Ruby | RoR | Capybara | Jest | Webpack </p>
 
 ### Hello, World! :nerd_face:
