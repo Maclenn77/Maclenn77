@@ -4,7 +4,7 @@
 
 ### Hello, World! :nerd_face:
 
-I'm Juan Paulo, but you can call me just *J.P.*. I learned Full-Stack Web Development at Microverse ([highly recommended](https://www.microverse.org/?grsf=6h9fw6)). I'm currently working as a Back-end Developer at Apex Systems. I'm also bootstrapping an EdTech Startup ([check here](https://daiuk.com.mx)). 
+I'm Juan Paulo, but you can call me just *J.P.*. I learned Full-Stack Web Development at Microverse ([highly recommended](https://www.microverse.org/?grsf=6h9fw6)). I'm currently working as a Consultant at [Apex Systems](https://www.apexsystems.com/). I'm also bootstrapping an EdTech Startup ([check here](https://daiuk.com.mx)). 
 
 **<p align="center"> :dart: My goal is to develop innovative learning materials for high school students <br>and shorten the achievement gap in Latin America.</p>**
  
@@ -24,7 +24,7 @@ I have drafted a novel and a book of short stories. I would like to have one day
 
 ### My hobbies
 
- I love writing, but I have had no time to write for pleasure lately. I'm not bad, I even won second place in a short stories contest! (if you read in Spanish, I hope you can [enjoy it](http://www.puntodepartida.unam.mx/index.php/1087-no-0203/1918-0203-la-cronica-como-antidoto-las-batallas-en-xoco-juan-paulo-perez-tejada)). 
+ I love writing, and I host a [Shut & Write Meet Up](https://www.meetup.com/shutupandwriteguadalajara/events/290908296/) at Guadalajara. I'm not bad, I even won second place in a short stories contest! (if you read in Spanish, I hope you can [enjoy it](http://www.puntodepartida.unam.mx/index.php/1087-no-0203/1918-0203-la-cronica-como-antidoto-las-batallas-en-xoco-juan-paulo-perez-tejada)). 
 
 I like to read science fiction, realism, and pop science books. 📚
 
