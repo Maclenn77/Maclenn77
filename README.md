@@ -1,7 +1,7 @@
 
 <p style="text-align: center;"><img src='./addbanner.png' alt='Juan Paulo Pérez Tejada Ladrón de Guevara. Full-Stack Web Developer, Writer and Translator'></p>
-<p align="center">JavaScript | React | Bootstrap | HTML | CSS | VS Code | Git | Wordpress | Ruby | RoR | Capybara | Jest | Webpack </p>
-
+<p align="center">JavaScript | React | Bootstrap | HTML | CSS | Git | Python | SQL | Ruby | RoR | Capybara | Jest </p>
+ 
 ### Hello, World! :nerd_face:
 
 I'm Juan Paulo, but you can call me just *J.P.*. I learned Full-Stack Web Development at Microverse ([highly recommended](https://www.microverse.org/?grsf=6h9fw6)). I'm currently working as a Consultant at [Apex Systems](https://www.apexsystems.com/). I'm also bootstrapping an EdTech Startup ([check here](https://daiuk.com.mx)). 
