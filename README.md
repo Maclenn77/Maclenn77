@@ -28,7 +28,7 @@ I have drafted a novel and a book of short stories. I would like to have a long 
 
 I like to read science fiction, realism, and pop science books. 📚
 
-For a long time, my favorite sport was chess. But as I spend a lot of time in a chair, I rarely play chess now. My current hobbies are riding the bicycle and running. However, I am always ready for a chess match. [Challenge me!](https://www.chess.com/member/jpaulopapas) ♟️ 🦾
+For a long time, my favorite sport was chess. But as I spend a lot of time in a chair, I rarely play chess now. My current hobbies are riding the bicycle and skating. However, I am always ready for a chess match. [Challenge me!](https://www.chess.com/member/jpaulopapas) ♟️ 🦾
 
 ### My favorite things
 
@@ -47,7 +47,7 @@ For a while, I was paid for doing memes in a local newspaper. :sweat_smile:
 
 ### Contact Info
 
-You can reach me through [Twitter](https://twitter.com/srjuanpapas) or [LinkedIn](https://www.linkedin.com/in/juanpaulopereztejada/es-es?originalSubdomain=mx) or here, in GitHub (I guess that you don't need a link for that :smiley:)
+You can reach me through [LinkedIn](https://www.linkedin.com/in/juanpaulopereztejada/es-es?originalSubdomain=mx) or here, in GitHub (I guess that you don't need a link for that :smiley:)
 
 ####  ✨ Have fun coding! ✨
 
